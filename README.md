@@ -13,13 +13,7 @@ Text editor app and is a PWA and functions offline. This application is deployed
 - [Questions](#questions)
 
 ## Installation
-`git clone` the repo to your local machine. To use this application, run the following command to install the dependencies: 
-
-     npm install
-
-Then run the following command:
-
-`npm run start:dev`
+To install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json.
 
 ## Usage
 To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page.
