@@ -1,7 +1,6 @@
-<h1 align="center">J.A.T.E. - Just Another Text Editor</h1>
-  
+J.A.T.E
 ## Description
-This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
+Text editor app and is a PWA and functions offline. This application is deployed through Heroku.
 
 ## Table of Contents
 - [Description](#description)
@@ -9,10 +8,7 @@ This application takes an existing text editor app and adds functionality for it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
-- [Demo](#demo)
 - [Built With](#built-with)
-- [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -26,23 +22,12 @@ Then run the following command:
 `npm run start:dev`
 
 ## Usage
-Type the following command in your termimal:
-
-`npm run start`
-
-Then open Insomnia and type http://localhost:3000/ to run this application on your local machine.
+To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page.
 
 ## Deployed Link
 
-The link to the deployed application is: https://jate-bfguo.herokuapp.com/.
+The link to the deployed application is: https://pwa-texted-app.herokuapp.com/.
 
-
-## Demo
-Below is the demostration of this application. Please click <a href="https://www.youtube.com/watch?v=-CxXQmsFrb8" target="_blank">here</a> for walk-through video.
-<img src="images/demo.gif" alt="demo" />
-
-
-**[⬆ back to top](#table-of-contents)**
 
 ## Built With
 
@@ -52,29 +37,11 @@ Below is the demostration of this application. Please click <a href="https://www
 * [NodeJS](https://nodejs.org/en/)
 * [ExpressJS](https://expressjs.com/)
   
-**[⬆ back to top](#table-of-contents)**
-
-## License
-This application is licensed under MIT license. 
-
-**[⬆ back to top](#table-of-contents)**
-
-## Contributing
-This application is developed by Baofeng Guo. If you would like to contribute it, please follow the guidelines for how to do so.
-
-**[⬆ back to top](#table-of-contents)**
 
 ## Tests
-To run tests on the application, run
-
-`npm install jest`
-
-and then `npm run test` from the command line.
-
-**[⬆ back to top](#table-of-contents)**
+No tests were required for this project.
 
 ## Questions
-For any question, please contact me on GitHub: [magickw](https://github.com/magickw) or email me at peterguo1983@gmail.com.
+https://github.com/mherring11
 
-**[⬆ back to top](#table-of-contents)**
 
